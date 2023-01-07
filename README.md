@@ -22,3 +22,6 @@ chmod +x proxy.py
 ```
 
 
+
+#
+Special thanks for my comrades BlackFire and Drake
