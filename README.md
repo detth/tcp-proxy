@@ -23,5 +23,10 @@ chmod +x proxy.py
 
 
 
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/BKDXjvy/Screenshot-from-2023-01-07-14-27-19.png)
+
+
 #
 Special thanks for my comrades BlackFire and Drake
